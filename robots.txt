@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://laneudi.github.io/sitemap.html.gz
+Sitemap: https://laneudi.github.io/app/sitemap.html.gz
+Sitemap: https://laneudi.github.io/assets/sitemap.html.gz
+Sitemap: https://laneudi.github.io/css/sitemap.html.gz
+Sitemap: https://laneudi.github.io/includes/sitemap.html.gz
+Sitemap: https://laneudi.github.io/item/sitemap.html.gz
+Sitemap: https://laneudi.github.io/src/sitemap.html.gz
